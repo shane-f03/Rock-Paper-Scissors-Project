@@ -3,17 +3,18 @@
 We're going to be making an artificial intelligence that wins at Rock, Paper, Scissors!
 It's been done before, but it's a good project to get your feet wet in AI.
 
-### Task 1: Open the shared google doc.
-[Project Google Doc](https://docs.google.com/document/d/1oG6n_vd1Fgdpourc7Dl1LbjLy_fLD1V5E2WEWUQd4TA/edit?usp=sharing)
+### [Project Google Doc](https://docs.google.com/document/d/1oG6n_vd1Fgdpourc7Dl1LbjLy_fLD1V5E2WEWUQd4TA/edit?usp=sharing)
 
-We will create a project outline before we leave today.
+### [Project UML Outline](https://drive.google.com/file/d/1WUv93TYrMRMko8XCpfw0i1ucC9A3nPNP/view?usp=sharing)
 
-### Task 2: add your name to the project members readme file.
+### [Discord Chat](https://discord.gg/EZNGvAF)
 
-### Task 3: run the demo-file on your computer.
+### The Challenge:
 
-I suggest you use a pretty code viewing text editor like this: https://www.sublimetext.com/.
+https://towardsdatascience.com/how-to-win-over-70-matches-in-rock-paper-scissors-3e17e67e0dab
 
-Find the demo files with a description here: https://github.com/sachag678/freeCodeCamp.
+[Example Codes](http://www.rpscontest.com/)
 
-Save the html and js files on your computer in the same folder and open the html file.
+[Example Algorithm Types](https://daniel.lawrence.lu/programming/rps/)
+
+(You can find a large set of algorithms in Python that do pretty much what we're trying to do as a link on the above page, the small difference is that we will be playing real players instead of other algorithms and using Python 3 (not 2).)

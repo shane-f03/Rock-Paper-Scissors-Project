@@ -12,3 +12,80 @@ Add your name, major, favorite programming language, github username, and anythi
 Math, 4th Year, Python
 
 Github: sjsPuzzler
+
+## David Araya
+Computer Science, 4th year, COBOL, I would like to stop Climate Change
+
+Github: david-araya
+
+## Hamza Sohail
+Computer Science, 1st Year, Python and C/C++
+
+Github: h4sohail
+
+## Shane Fernandes
+
+Computer Science, 1st Year, Python
+
+Github: shane-f03
+
+## Kelvin Tran
+Computer Science, 3rd Year
+
+Github: kelvinttran
+
+## Kevin Wu
+
+Cognitive Science, 1st Year, Python
+
+Github: blankkcanvas
+
+## MANOJ GOLI
+Computer Engineering, Python
+
+Github: manoj-goli
+
+## Revanth Sridhar
+MEng with a specialization in Data Science
+
+## Julia Cai
+Computer Science, 3rd Year
+
+Github: juliaziqingcai
+
+Fun fact: I'm only 151cm tall!
+
+## Deen Haque
+Second Year Undergrad Computer Science c:
+
+Fav Language: English hehe
+
+Github: deenhaque
+
+Yeah, I'm pretty great.
+
+## Hasan Baig
+Computer Systems, 3rd Year
+
+## Emmanuel Dairo
+4th year comp sci: java is my strongest suit, I have experience with JS,C and C++
+
+Github: Hasan-Baig
+
+## Mohamed Temkit
+Computer Science, 1st Year
+
+Github: mtemkit
+
+## Johnny Park
+Stat, 1st Year
+
+GitHub: JohnnyPark99
+
+## Gordon Tang
+Computer Science, 1st year
+
+## Mital Raithatha
+MSc Systems and Computer Engineering
+
+Languages: C, Matlab
